@@ -89,3 +89,14 @@
      color: white;
      border: none;
 }
+@media(max-width:768px){
+
+.cust-info,
+.order-sec{
+width:100%;
+}
+
+.main{
+flex-direction:column;
+}
+}

@@ -92,3 +92,17 @@
 .summary hr {
   margin: 15px 0;
 }
+@media(max-width:768px){
+
+.cart-container{
+flex-direction:column;
+}
+
+.cart-list{
+width:100%;
+}
+
+.summary{
+width:100%;
+}
+}

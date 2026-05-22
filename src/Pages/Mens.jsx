@@ -117,7 +117,8 @@ export default function Mens() {
             width: "75%",
             marginLeft: "30px",
             display: "grid",
-            gridTemplateColumns: "repeat(3, 1fr)",
+           gridTemplateColumns:
+                         "repeat(auto-fit,minmax(220px,1fr))",
             gap: "20px",
           }}
         >
