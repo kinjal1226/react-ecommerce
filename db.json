@@ -1,0 +1,333 @@
+{
+      "mens": [
+  {
+    "id": 1,
+    "name": "Classic Denim Jacket",
+    "price": 999,
+      "category": "jacket",
+    "image": "/Image/jacket.jpg"
+  },
+  {
+    "id": 2,
+    "name": "White Polo Shirt",
+    "price": 899,
+      "category": "shirt",
+    "image": "/Image/shirt.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Slim Fit Jeans",
+    "price": 689,
+      "category": "jeans",
+    "image": "/Image/jeans.jpg"
+  },
+   {
+    "id": 4,
+    "name": "Brown Polo Tshirt",
+    "price": 599,
+      "category": "Tshirt",
+    "image": "/Image/browntshirt.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Pink Shirt",
+    "price": 999,
+      "category": "shirt",
+    "image": "/Image/pinkshirt.jpg"
+  },
+  {
+    "id": 6,
+    "name": "White Polo Tshirt",
+    "price": 799,
+      "category": "Tshirt",
+    "image": "/Image/whitepolotshirt.jpg"
+  }
+  ,
+   {
+    "id": 7,
+    "name": "Classic Blue Tshirt",
+    "price": 689,
+      "category": "Tshirt",
+    "image": "/Image/blueshirt.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Beige Formal Shirt",
+    "price": 679,
+      "category": "shirt",
+    "image": "/Image/BeigeFormalshirt.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Slim Fit Blue Jeans",
+    "price": 567,
+      "category": "jeans",
+    "image": "/Image/Bluejeans.jpg"
+  }
+  ,
+   {
+    "id": 10,
+    "name": "Wide leg Cargo ",
+    "price": 899,
+      "category": "jeans",
+    "image": "/Image/Widelegcargo.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Blue and white ckecks Shirt",
+    "price": 999,
+      "category": "shirt",
+    "image": "/Image/Blueandwhitechecksshirt.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Blue Baggy Jeans",
+    "price": 399,
+      "category": "jeans",
+    "image": "/Image/Bluebaggy.jpg"
+  }
+  ,
+   {
+    "id": 13,
+    "name": "Formal Pant",
+    "price": 899,
+      "category": "jeans",
+    "image": "/Image/Formalpant.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Classic Black Blazer",
+    "price": 1599,
+      "category": "shirt",
+    "image": "/Image/Blackblazer.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Classic Blue Blazer",
+    "price": 6999,
+      "category": "shirt",
+    "image": "/Image/blueblazer.jpg"
+  }
+],
+ 
+         "kids": [
+  {
+    "id": 1,
+    "name": "Green Tshirt",
+    "price": 899,
+      "category": "tshirt",
+    "image": "/Image/greentshirt.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Purple Tshirt",
+    "price": 788,
+      "category": "tshirt",
+    "image": "/Image/purpletshirt.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Pink and White checks Shirt",
+    "price": 999,
+      "category": "shirt",
+    "image": "/Image/pinkwhitechecksshirt.jpg"
+  },
+   {
+    "id": 4,
+    "name": "White shirt",
+    "price": 899,
+      "category": "shirt",
+    "image": "/Image/kidswhiteshirt.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Blue Jeans",
+    "price": 799,
+      "category": "shirt",
+    "image": "/Image/kidsbluejeans.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Blue Tshirt",
+    "price": 599,
+      "category": "tshirt",
+    "image": "/Image/bluetshirt.jpg"
+  }
+  ,
+   {
+    "id": 7,
+    "name": "Denium Shorts",
+    "price": 469,
+      "category": "jeans",
+    "image": "/Image/deniumshorts.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Denium Jacket",
+    "price": 349,
+      "category": "jacket",
+    "image": "/Image/deniumjacket.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Green Jacket",
+    "price": 599,
+      "category": "jacket",
+    "image": "/Image/greenjacket.jpg"
+  }
+  ,
+   {
+    "id": 10,
+    "name": "Pink Frock ",
+    "price": 999,
+      "category": "frock",
+    "image": "/Image/pinkfrock.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Yellow Frock",
+    "price": 799,
+      "category": "frock",
+    "image": "/Image/yellowfrock.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Blue Frock",
+    "price": 599,
+      "category": "frock",
+    "image": "/Image/bluefrock.jpg"
+  }
+  ,
+   {
+    "id": 13,
+    "name": "Yellow Tshirt",
+    "price": 699,
+      "category": "tshirt",
+    "image": "/Image/yellowtshirt.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Red Tshirt",
+    "price": 849,
+      "category": "tshirt",
+    "image": "/Image/redtshirt.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Black Tshirt",
+    "price": 699,
+      "category": "tshirt",
+    "image": "/Image/blacktshirt.jpg"
+  }
+],
+"womens": [
+  {
+    "id": 1,
+    "name": "Blue Top",
+    "price": 899,
+      "category": "Top",
+    "image": "/Image/Bluetop.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Green Jumpsuit",
+    "price": 788,
+      "category": "Jumpsuit",
+    "image": "/Image/jumpsuit.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Blue Boot Cut Jeans",
+    "price": 999,
+      "category": "jeans",
+    "image": "/Image/Botcutjeans.jpg"
+  },
+   {
+    "id": 4,
+    "name": "White Strip Tshirt",
+    "price": 899,
+      "category": "Tshirt",
+    "image": "/Image/striptshirt.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Blue Satin Shirt",
+    "price": 799,
+      "category": "shirt",
+    "image": "/Image/Bluesatinshirt.jpg"
+  },
+  {
+    "id": 6,
+    "name": "White Shirt",
+    "price": 599,
+      "category": "shirt",
+    "image": "/Image/whiteshirt.jpg"
+  }
+  ,
+   {
+    "id": 7,
+    "name": "Pink Shirt",
+    "price": 469,
+      "category": "shirt",
+    "image": "/Image/womensPinkshirt.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Brown Polo TShirt",
+    "price": 349,
+      "category": "Tshirt",
+    "image": "/Image/Brownpolotshirt.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Pink Polka Top",
+    "price": 599,
+      "category": "Top",
+    "image": "/Image/Pinkpolka.jpg"
+  }
+  ,
+   {
+    "id": 10,
+    "name": "Orange Top ",
+    "price": 999,
+      "category": "Top",
+    "image": "/Image/orangetop.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Cargo Jeans",
+    "price": 799,
+      "category": "jeans",
+    "image": "/Image/Cargojeans.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Orange Jumpsuit",
+    "price": 599,
+      "category": "Jumpsuit",
+    "image": "/Image/orangejumpsuit.jpg"
+  }
+  ,
+   {
+    "id": 13,
+    "name": "Slim Fit Black jeans",
+    "price": 699,
+      "category": "jeans",
+    "image": "/Image/slimfitblackjeans.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Floral Maxi Dress",
+    "price": 849,
+      "category": "Dress",
+    "image": "/Image/floralmaxidress.jpg"
+  },
+  {
+    "id": 15,
+    "name": "wide leg  Jeans",
+    "price": 699,
+      "category": "jeans",
+    "image": "/Image/widelegjeans.jpg"
+  }
+]
+}

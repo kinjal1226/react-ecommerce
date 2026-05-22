@@ -1,0 +1,82 @@
+.succes-img{
+    display: flex;
+    justify-content: center;
+}
+.succes-tag h1{
+      text-align: center;
+}
+.succes-tag p{
+       text-align: center;
+}
+.ord-id{
+      border: 1px solid #ddd;
+    display: flex;
+   justify-content: center;
+    align-items: center;
+    gap: 30px;
+   border-radius: 8px;
+    width: 35%;
+    margin: auto;
+     background-color: pink;
+     border: none;
+     font-weight: bold;
+}
+.ord-icon{
+    width: 40px;
+    font-size: 30px;
+     color: palevioletred;
+    
+}
+.ord-icon-cal{
+       color: palevioletred;
+}
+.ord-time{
+        display: flex;
+         justify-content: center;
+         align-items: center;
+          gap: 30px;
+}
+.detail-sec{
+    display: flex;
+     justify-content: space-evenly;
+     margin-top: 50px;
+}
+.det-sec{
+         box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+         width: 350px;
+         border-radius: 20px
+}
+.item-sec-det{
+      box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+       width: 650px;
+      
+}
+.item-sec-price{
+          box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+     width: 450px;
+    
+}
+.price-right{
+    margin-right: 10px;
+}
+.price{
+    display: flex;
+    align-items: center;
+     border-bottom: 1px solid #ddd;
+}
+.det-sec p{
+    margin-left: 23px;
+  
+}
+.det-sec h1{
+    margin-left: 20px;
+      font-size: 20px;
+      gap: 20px;
+     
+}
+.det-icons{
+    font-size: 24px;
+     color: purple;
+     margin-right: 10px;
+
+}
